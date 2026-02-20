@@ -46,3 +46,4 @@ Bu çalışmada kullanılan veriler Ember-Energy ve açık kaynaklı enerji veri
 
 Hazırlayan: Azra Davut - Enerji Sistemleri Mühendisliği
 LinkedIn www.linkedin.com/in/azra-davut-7a0085325
+
