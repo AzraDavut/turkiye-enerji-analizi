@@ -44,7 +44,8 @@ Bu çalışmada kullanılan veriler Ember-Energy ve açık kaynaklı enerji veri
 
 [ ] Makine öğrenmesi modelleri ile 2030 tahmini yapılması.
 
-Hazırlayan: Azra Davut - Enerji Sistemleri Mühendisliği
+Hazırlayan: Azra Davut - Enerji Sistemleri Mühendisliği Öğrencisi
 LinkedIn www.linkedin.com/in/azra-davut-7a0085325
+
 
 
